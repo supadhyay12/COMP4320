@@ -1,0 +1,7 @@
+(base) Shantis-MBP:~ shantiupadhyay$ java -cp /Users/shantiupadhyay/Documents/4320Project UDPClient\
+Enter server IP Adress to connect to.
+71.59.13.65
+Enter the packet damage probability: 
+0.5
+Type HTTP GET Request, then press Enter:
+GET TextFile.html HTTP/1.0
